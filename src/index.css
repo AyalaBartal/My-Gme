@@ -1,0 +1,26 @@
+*{
+  background-color: rgb(100, 170, 218);
+  
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,5,65);
+  transition: 0.3s;
+  width: 200px;
+  height: 200px;
+  border-radius: 5%;
+  background-color: blueviolet;
+  text-align: center;
+  float: left;
+  font-size: 150px;
+  margin: 50px;
+}
+
+.board{
+    align-items: center;
+}
+
+.header{
+  text-align: center;
+  font-size: 40px;
+}
+
